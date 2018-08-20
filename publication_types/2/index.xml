@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Dr. Ferhat Karaman</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Dr. Ferhat Karaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ferhat Karaman © 2018</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The longevity of statistical learning: When infant memory decays, isolated words come to the rescue.</title>
+      <link>/publication/predictive-mapping/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/predictive-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying audience effects in animals: What we can learn from human language research</title>
+      <link>/publication/lakecat/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lakecat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolated Words Selectively Enhance Memory for High Transitional Probability Sound Sequencess</title>
+      <link>/publication/flow-chart-water-qual-criteria/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/flow-chart-water-qual-criteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of language on recognition memory for motion events</title>
+      <link>/publication/climate-change/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/climate-change/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

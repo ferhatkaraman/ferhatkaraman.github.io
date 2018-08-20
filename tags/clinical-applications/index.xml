@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical-applications on Dr. Ferhat Karaman</title>
+    <link>/tags/clinical-applications/</link>
+    <description>Recent content in Clinical-applications on Dr. Ferhat Karaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ferhat Karaman © 2018</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/clinical-applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cognition in Clinical &amp; Ageing Populations</title>
+      <link>/project/clinical_applications/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/clinical_applications/</guid>
+      <description>Much of our work has focussed on basic questions on cognitive psychology. More recently, we have shifted our attention to some more applied questions, and it is our aim to increase our focus on this line of research. We aim to utilise the findings from our basic research programme to probe cognition in clinical and ageing populations.
+Representative Publications  Grange, J.A., &amp;amp; Becker, R. (2018). The effect of aging on response congruency in task switching.</description>
+    </item>
+    
+  </channel>
+</rss>
