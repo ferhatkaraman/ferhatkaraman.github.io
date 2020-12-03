@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Dr. Ferhat Karaman"
+title = "Ferhat Karaman"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ferhat Karaman"
-  role = "Researcher in Experimental Psychology"
+  role = "Assistant Professor of Psychology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -60,9 +60,8 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ferhat.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "fkaraman@vols.utk.edu"
+  email = "ferhat.karaman@usak.edu.tr"
   address = "Uşak Üniversitesi Fen Edebiyat Fakültesi, İzmir Yolu 8.km Bir Eylül Kampüsü 64200 UŞAK"
-  phone = "+90 552 265 00 15"
   skype = "ferhat.karama"
   telegram = ""
 
@@ -217,7 +216,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fkaraman@vols.utk.edu"
+    link = "mailto:ferhat.karaman@usak.edu.tr"
 
   [[params.social]]
     icon = "twitter"
