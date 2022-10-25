@@ -15,6 +15,15 @@ weight = 60
 
 +++
 
-I was a teaching assistant for the following course at University of Tennessee:
+Teaching at Usak University:
 
-- PSYC 410: Sensory Processes & Perception
+- Intoduction to Psychology
+- Advanced Statistics
+- Cognitive Psychology
+- Experimental Psychology
+- Physiological Psychology
+- Sensation and Perception
+
+TA for the following course at University of Tennessee:
+
+- PSYC 410: Sensory Processes & Perception 
