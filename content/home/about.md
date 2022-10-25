@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "MA in Experimental Psychology"
   institution = "University of Tennessee, Knoxville"
-  year = 2016
+  year = 2015
   
 [[education.courses]]
   course = "MA in Cognitive Psychology"
