@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infant memory on Dr. Ferhat Karaman</title>
+    <link>/tags/infant-memory/</link>
+    <description>Recent content in Infant memory on Dr. Ferhat Karaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ferhat Karaman © 2018</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/infant-memory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Learning and Memory</title>
+      <link>/project/cognitive_control/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cognitive_control/</guid>
+      <description>Word Segmentation
+In this project we are looking at how infants are able to find words in continuous speech. Words in speech aren’t separated by blank spaces the way words in text are separated by blank spaces. If you think about what it’s like listening to a foreign language, one of the things that you might be able to recall is that it often sounds like people are speaking really really quickly.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dr. Ferhat Karaman</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Dr. Ferhat Karaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ferhat Karaman © 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Infant memory</title>
+      <link>/tags/infant-memory/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/infant-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical learning</title>
+      <link>/tags/statistical-learning/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/statistical-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vowel harmony</title>
+      <link>/tags/vowel-harmony/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vowel-harmony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word learning</title>
+      <link>/tags/word-learning/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word segmentation</title>
+      <link>/tags/word-segmentation/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/word-segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

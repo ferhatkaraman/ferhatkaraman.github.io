@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vowel harmony on Dr. Ferhat Karaman</title>
+    <link>/tags/vowel-harmony/</link>
+    <description>Recent content in Vowel harmony on Dr. Ferhat Karaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ferhat Karaman © 2018</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vowel-harmony/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vowel Harmony</title>
+      <link>/project/clinical_applications/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/clinical_applications/</guid>
+      <description>In this project, we examine detectability and learnability of vowel harmony patterns by infants and adults:
+1) Vowel harmony (VH) and word segmentation (Does VH support word segmentation?) 2) VH and statistical learning (combining and colliding statistical and vowel harmonic cues) 3) VH and memory (Infants&amp;rsquo; and adults’ memories for harmonic and disharmonic word sequences) 4) VH and word learning (Does VH support learning of word-object associations?) 5) VH and non-adjacent dependency learning</description>
+    </item>
+    
+  </channel>
+</rss>
