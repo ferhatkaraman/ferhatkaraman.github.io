@@ -40,5 +40,7 @@ weight = 5
 
 # About Me
 
-Ferhat Karaman recently completed his Ph.D. in Experimental Psychology at the University of Tennessee, Knoxville. During his Ph.D., he worked on early language acquisition in Dr. Jessica S. F. Hay's Infant Language and Perceptual Learning Lab. His research interests include statistical language learning and infant memory. Beginning in early 2019, Ferhat will begin serving as faculty in Department of Psychology at Uşak University. 
+I am an Assistant Professor of Psychology at Texas A&M University–Kingsville.
+My research focuses on language learning and cognition across development, with a particular emphasis on how learners extract patterns and structure from linguistic input. I use behavioral and experimental methods to study language processing in children and adults.
+I am especially interested in statistical learning, language development, and the relationship between language and broader cognitive processes. My work aims to better understand the mechanisms that support language acquisition and learning across the lifespan.
 
