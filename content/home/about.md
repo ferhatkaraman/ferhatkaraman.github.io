@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Early Language Acquisition",
+    "Language Acquisition",
     "Statistical Learning",
-    "Infant Memory"
+    "Memory"
   ]
 
 # List your qualifications (such as academic degrees).
