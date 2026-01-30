@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Language Acquisition",
+    "Early Language Acquisition",
     "Statistical Learning",
     "Infant Memory"
   ]
