@@ -9,8 +9,9 @@ format:
     page-layout: full
     css: styles.css
   pdf:
+    pdf-engine: xelatex
     documentclass: article
-    geometry: margin=1in
+    geometry: margin=1in    
 execute:
   echo: false
   warning: false
