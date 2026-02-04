@@ -9,11 +9,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
       - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Debug - show files
+        run: |
+          ls -la
+          ls -la cv
+          quarto --version
 
       - name: Render CV (HTML)
         run: |
