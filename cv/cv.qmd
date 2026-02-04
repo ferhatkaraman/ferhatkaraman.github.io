@@ -1,5 +1,5 @@
 ---
-title: "Ferhat Karaman"
+title: "Ferhat Karaman, PhD"
 subtitle: "Assistant Professor of Psychology | Texas A&M University–Kingsville"
 format:
   html:
