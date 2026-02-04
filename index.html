@@ -751,57 +751,40 @@
 
 <section id="contact" class="home-section">
   <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-4 section-heading">
+        <h1>Contact</h1>
+      </div>
 
-      
+      <div class="col-xs-12 col-md-8">
+        <form action="https://formspree.io/ferhatkaraman45@gmail.com" method="POST">
 
+          <div class="form-group">
+            <label for="name">Your name</label>
+            <input id="name" type="text" name="name" required class="form-control">
+          </div>
 
+          <div class="form-group">
+            <label for="email">Your email</label>
+            <input id="email" type="email" name="_replyto" required class="form-control">
+          </div>
 
+          <div class="form-group">
+            <label for="message">Your message</label>
+            <textarea id="message" rows="4" name="message" required class="form-control"></textarea>
+          </div>
 
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Contact</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
+          <input type="hidden" name="_next" value="/html/thanks.html">
+          <input type="hidden" name="_subject" value="Website message">
+          <input type="text" name="_gotcha" style="display:none">
 
-    <ul class="fa-ul" itemscope>
-
-      
-      <li>
-        <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
-       <form action="https://formspree.io/ferhatkaraman45@gmail.com" method="POST">
-          <label for="name">Your name: </label>
-          <input type="text" name="name" required="required" style="background-color:white;color:#000" onfocus="this.style.color='#000';"><br><br>
-          <label for="email">Your email: </label>
-          <input type="email" name="_replyto" required="required" style="background-color:white;color:#000" onfocus="this.style.color='#000';"><br><br>
-          <label for="message">Your message:</label><br>
-          <textarea rows="4" name="message" id="message" required="required" class="form-control" style="background-color:white;color:#000" onfocus="this.style.color='#000';"></textarea>
-          <input type="hidden" name="_next" value="/html/thanks.html" /><br>
-          <input type="submit" value="Send" name="submit" class="btn btn-primary btn-outline">
-          <input type="hidden" name="_subject" value="Website message" />
-          <input type="text" name="_gotcha" style="display:none" />
-	</form>
-      </li>
-      
-
-    
-     
-      
-
-      
-
-    </ul>
-
-    
-   
-    
-
-  </div>
-</div>
-
+          <button type="submit" class="btn btn-primary btn-outline">Send</button>
+        </form>
+      </div>
     </div>
-  </section>
+  </div>
+</section>
+
   
 
 
