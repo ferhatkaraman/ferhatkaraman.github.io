@@ -8,6 +8,7 @@ format:
     page-layout: full
     css: styles.css
   pdf:
+    pdf-engine: xelatex
     documentclass: article
     geometry: margin=1in
 execute:
