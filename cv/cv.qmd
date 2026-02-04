@@ -1,6 +1,7 @@
 ---
 title: "Ferhat Karaman, PhD"
 subtitle: "Assistant Professor of Psychology | Texas A&M University–Kingsville"
+output-file: index.html
 format:
   html:
     theme: cosmo
@@ -8,7 +9,6 @@ format:
     page-layout: full
     css: styles.css
   pdf:
-    pdf-engine: xelatex
     documentclass: article
     geometry: margin=1in
 execute:
