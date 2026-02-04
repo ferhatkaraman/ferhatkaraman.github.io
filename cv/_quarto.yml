@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "CV"
+  navbar: false
+format:
+  html:
+    theme: cosmo
+    toc: false
